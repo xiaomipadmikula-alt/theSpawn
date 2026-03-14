@@ -76,7 +76,7 @@ language: "ru_RU"
 ####### BETA FEATURE #######
 # check positions before teleport [true | false]
 check-positions: "false"
-####### BETA FEATURE #######
+####### BETA FEATURE ####### 
 
 
 
